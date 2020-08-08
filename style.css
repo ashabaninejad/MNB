@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "iran-sans";
+    src: url("fonts/IRANSANSWEB.TTF") format("truetype")
+  }
+
+  body{
+      font-family: "iran-sans" !important;
+      background-image: url('bg.jpg');
+      background-position: center center;
+      background-repeat: no-repeat;
+  }
